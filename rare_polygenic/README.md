@@ -1,7 +1,7 @@
 
 ## Rare variant polygenic models
 
-This folder contains code to run rare variant poylgenic models. It can be 
+This folder contains code to run rare variant polygenic models. It can be 
 installed with:
 
 ```sh
